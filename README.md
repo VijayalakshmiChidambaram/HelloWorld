@@ -28,7 +28,7 @@ Screen navigations - using more than one activity to have a chat feature
 
 Here's a walkthrough of implemented features:
 
-<img src='HelloWorld_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/VijayalakshmiChidambaram/HelloWorld/blob/master/app/HelloWorld_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
