@@ -40,7 +40,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-1) Imsge view was not visisble in the emulator. So i changes the app:srcCompat to android:src
+1) Image view was not visisble in the emulator. So i changed the app:srcCompat to android:src
+2) Had issues with SDK version while compiling, so i changed the gradle file compile sdk and target sdk versions accordingly.
 
 ## License
 
